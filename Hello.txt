@@ -3,5 +3,6 @@ class Hello
 public static void main (String arg[])
 {
 System.out.println("Hello Students");
+System.out.println("hello world");
 }
 }
